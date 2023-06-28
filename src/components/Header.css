@@ -1,0 +1,30 @@
+/* .NavMenu
+{
+    width: 60rem;
+    height: 600px;
+} */
+
+.me-auto {
+    position: absolute;
+    right: 0;
+}
+
+img {
+
+    width: 20px;
+}
+
+.left {
+    margin-left: -35rem;
+}
+
+#basic,
+#basic-nav-dropdown {
+    margin: 50px;
+    font-weight: bold;
+    color: white;
+}
+.right{
+    color: white;
+    font-weight: bold;
+}
