@@ -19,7 +19,7 @@ import ContactUs from './pages/ContactUs';
 
 const router = createBrowserRouter([
   {
-    path: "/home",
+    path: "/",
     element: <Home />,
   },
   {
