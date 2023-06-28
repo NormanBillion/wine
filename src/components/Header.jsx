@@ -19,7 +19,7 @@ function Header() {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
-            <Nav.Link id="basic" href="/home">Home</Nav.Link>
+            <Nav.Link id="basic" href="/">Home</Nav.Link>
             <Nav.Link id="basic" href="/contact">Contact</Nav.Link>
             <Nav.Link id="basic" href="/about">About</Nav.Link>
             <NavDropdown title="Menu" id="basic-nav-dropdown">
